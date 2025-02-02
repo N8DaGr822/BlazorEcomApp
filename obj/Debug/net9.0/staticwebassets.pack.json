@@ -1,0 +1,213 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazyEcom.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazyEcom.q7v2ny9pcf.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "c:\\Users\\nathe\\OneDrive\\Documents\\Visual Studio 2022\\Code Projects\\Blazor e-com\\BlazyEcom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BlazyEcom.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BlazyEcom.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.BlazyEcom.props",
+      "PackagePath": "build\\BlazyEcom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazyEcom.props",
+      "PackagePath": "buildMultiTargeting\\BlazyEcom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.BlazyEcom.props",
+      "PackagePath": "buildTransitive\\BlazyEcom.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

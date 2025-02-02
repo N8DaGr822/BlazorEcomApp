@@ -1,0 +1,41 @@
+﻿@page "/products"
+
+<h3>Product Listings</h3>
+@if (products == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <ul>
+        @foreach (var product in products)
+        {
+            <li>
+                <h4>@product.Name</h4>
+                <p>@product.Description</p>
+                <p>Price: @product.Price</p>
+                <button @onclick="() => AddToCart(product)">Add to Cart</button>
+            </li>
+        }
+    </ul>
+}
+
+@code {
+    private List<Product> products;
+
+    [Inject]
+    private ProductService ProductService { get; set; }
+
+    [Inject]
+    private CartService CartService { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        products = await ProductService.GetProductsAsync();
+    }
+
+    private void AddToCart(Product product)
+    {
+        CartService.AddToCart(product);
+    }
+}

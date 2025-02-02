@@ -1,0 +1,38 @@
+﻿@page "/cart"
+
+<h3>Your Cart</h3>
+@if (cartItems == null || cartItems.Count == 0)
+{
+    <p>Your cart is empty.</p>
+}
+else
+{
+    <ul>
+        @foreach (var item in cartItems)
+        {
+            <li>
+                <h4>@item.Name</h4>
+                <p>Price: @item.Price</p>
+            </li>
+        }
+    </ul>
+    <button @onclick="ClearCart">Clear Cart</button>
+}
+
+@code {
+    private List<Product> cartItems;
+
+    [Inject]
+    private CartService CartService { get; set; }
+
+    protected override void OnInitialized()
+    {
+        cartItems = CartService.GetCartItems();
+    }
+
+    private void ClearCart()
+    {
+        CartService.ClearCart();
+        cartItems = CartService.GetCartItems();
+    }
+}
